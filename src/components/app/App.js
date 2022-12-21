@@ -8,6 +8,7 @@ import decoration from '../../resources/img/vision.png';
 const App = () => {
     return (
         <div className="app">
+            <h1>Test</h1>
             <AppHeader/>
             <main>
                 <RandomChar/>
